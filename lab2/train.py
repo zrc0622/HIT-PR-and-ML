@@ -1,7 +1,7 @@
 # 训练代码
 import torch
 import os
-from torchvision import datasets, models, transforms
+from torchvision import datasets, transforms
 import torch.optim as optim
 import torch.nn as nn
 from model import AlexNet
