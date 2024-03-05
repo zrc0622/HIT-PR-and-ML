@@ -15,4 +15,4 @@
 
 ## 实验四
 1. 对Caltech101数据集使用预训练的CLIP进行零样本（zero-shot）图片分类
-2. 在CLIP的基础上复现CoOp（将CLIP中的人工prompt换为可学习text embedding）
+2. 在CLIP的基础上复现CoOp（将CLIP中的人工prompt换为可学习text embedding）1
